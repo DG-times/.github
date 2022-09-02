@@ -1,12 +1,21 @@
-## Hi there 👋
+![facebook_cover_photo_2](https://user-images.githubusercontent.com/66009926/188244542-493a39d8-99c2-45b0-845d-9f3545e7d9e2.png)
 
-<!--
+"뉴스 키워드 검색 기반의 빠르고 간편한 모바일 친화적인 UI를 가진 뉴스 검색 및 분석 서비스" DG times 입니다.
 
-**Here are some ideas to get you started:**
+저희가 제공하는 서비스는 아래와 같습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-> 포함, 제외 키워드를 통한 검색 기능
+뉴스 기사를 검색하면 가끔씩 원하지 않는 뉴스 기사들도 포함되서 나옵니다.. 따라서 원하지 않는 기사의 경우, 제외 키워드를 통해 뉴스 검색 결과에 포함되지 않도록 할 수 있습니다. 
+반면 꼭 포함되야하거나 검색 결과에서 우선 순위를 높이고 싶은 키워드가 있는 경우, 포함 키워드로 검색 결과의 정확도를 높일 수 있습니다.
+
+-> 키워드 관련 통계 제공
+타 뉴스 검색 및 분석 서비스를 보면 뉴스 데이터에서 추출한 통계 자료만 제공합니다. 
+하지만 우리 서비스는 사용자의 검색 기록도 통계 자료에 포함시켜서 인기 검색어, 연관 검색어, 키워드별 검색량 및 언급량 등 다양한 통계 자료를 모바일 친화적인 UI로 제공합니다.
+
+-> 백오피스 기능
+서비스 운영에는 정말 많은 데이터와 기능이 필요합니다. 
+이에 저희 서비스는 정말 필요한 최소한의 백오피스 기능을 구현하여 별도의 DB 접근이 없어도 서비스 운영이 가능하도록 합니다.
+
+### 시스템 구조도
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/66009926/188243848-3cc2908b-e8f7-4df1-b886-de9c1acaab76.png">
