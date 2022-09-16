@@ -4,6 +4,19 @@
 <h2 align="center"> "키워드 검색 기반의 빠르고 간편한 뉴스 검색 및 분석 서비스" DG times 입니다. </h2>
 
 <br/>
+
+### 🐨 프로젝트 소개 영상
+
+---
+
+<p align="center">
+
+<a href="https://youtu.be/vOECZVPOfe0">
+  <img src="http://img.youtube.com/vi/vOECZVPOfe0/0.jpg" alt="Deploy">
+</a>
+
+</p>
+
 <br/>
 
 ### 🐨 빠르고 간편한 뉴스 검색이 왜 필요할까요?
@@ -16,7 +29,6 @@
 
 따라서, 인터넷 상의 뉴스 정보들을 분석하고 사용자가 검색 키워드를 입력하면 빠르게 근접한 정보들을 제공하여 사용자가 쉽고 빠르게 정확한 데이터를 찾을 수 있도록 기여할 수 있습니다.
 
-<br/>
 <br/>
 
 ### 🐨 DG times는 어떤 기능을 제공하나요?
@@ -32,27 +44,40 @@
 타 뉴스 검색 및 분석 서비스를 보면 뉴스 데이터에서 추출한 통계 자료만 제공합니다. 
 하지만 우리 서비스는 사용자의 검색 기록도 통계 자료에 포함시켜서 인기 검색어, 연관 검색어, 키워드별 검색량 및 언급량 등 다양한 통계 자료를 모바일 친화적인 UI로 제공합니다.
 
-
-<br/>
 <br/>
 
 ### 🐨  시스템 구조도
 
 ---
 
-<img width="897" alt="image" src="https://user-images.githubusercontent.com/66009926/188243848-3cc2908b-e8f7-4df1-b886-de9c1acaab76.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/66009926/190565188-a83a947d-0d10-4baa-b2e9-929b41dc07f6.jpg">
 
 
 <br/>
+
+### 🐨 ER Diagram
+
+---
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/66009926/190562540-3073a6c3-58a7-4cee-86d9-d3c322bdd133.png">
+
+<br/>
+
+### 🐨 API 기술 문서
+
+---
+
+
+https://elderly-gruyere-ed2.notion.site/DGtimes-API-e1742d25040c4bebb70499673b4ec6af
+
 <br/>
 
 ### 🐨 사용 기술 스택
 
 ---
 
-기술 스택 설명
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/66009926/190564914-ead4d700-5035-4de3-a103-a6b51dadb839.png">
 
-<br/>
 <br/>
 
 
@@ -63,9 +88,8 @@
 각 레포지토리 설명
 
 <br/>
-<br/>
 
 ### 🐨  개발 일지
-저희 서비스의 상세 내용을 보고 싶으시면 아래 server repository의 wiki 탭을 확인해주세요
+저희 서비스의 상세 내용을 보고 싶으시면 아래 노션 페이지를 확인해주세요
 
-https://github.com/DG-times/server/wiki
+https://elderly-gruyere-ed2.notion.site/DG-times-8ccc6a7638274b4e95d616a8fd81474c
